@@ -1,0 +1,171 @@
+* {
+    padding: 0px;
+    margin: 0px;
+}
+
+
+.header {
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+    padding-top:10px;
+    border-bottom: 3px solid orange;
+    background-color: wheat;
+}
+
+
+
+.header a {
+    color: orange;
+}
+
+
+.header img {
+    position: relative;
+    bottom: 5px;
+}
+
+
+a {
+    text-decoration: none;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+
+.about-web {
+    border: 1px solid white;
+    width: 400px;
+    position: relative;
+    left: 50px;
+    top: 200px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    color: orange;
+    
+}
+
+
+.content {
+    background-image: url('https://coolbackgrounds.io/images/backgrounds/index/compute-ea4c57a4.png');
+    height: 91.3vh;
+}
+
+
+.bitcoin-image-right-side {
+    display: flex;
+    justify-content: end;
+    position: relative;
+    right: 50px;
+}
+
+
+.bitcoins {
+    text-align: center;
+    position: relative;
+    top: 100px;
+}
+
+
+
+.bitcoins h4 {
+    color: white;
+}
+
+.bitcoins a {
+    color: white;
+}
+
+.miners-text {
+    color: orange;
+    text-align: center;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+
+
+.container-2 {
+    background-image: url('https://wallpapercave.com/wp/wp2757874.gif');
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 100vh;
+}
+
+
+
+.content-2 {
+    text-align: center;
+    position: relative;
+    top: 130px;
+    
+}
+
+
+.content-2 button {
+    color: white;
+    background-color: orange;
+    width: 100px;
+    height: 50px;
+    border: 0px;
+    border-radius: 20px;
+}
+
+
+
+.content-2 a {
+    color: white;
+}
+
+
+
+.bitcoins button {
+ background-color: orange;
+ width: 100px;
+ height: 50px;
+ border: 0px;
+ border-radius: 20px;
+}
+
+
+
+ .content-2 h3 {
+    color: white;
+ }
+
+
+ .content-3 {
+    background-color: black;
+    width: 500px;
+    position: relative;
+    left: 500px;
+    color: orange;
+    opacity: 0.6;
+ }
+
+
+
+ .content-3 input {
+    position: relative;
+    right: 500px;
+    background-color: orange;
+ }
+
+
+ .id-vip {
+    position: relative;
+    left: 300px;
+    color: white;
+    bottom: 50px;
+ }
+
+
+ .img-3 {
+    position: relative;
+    left: 200px;
+ }
+
+
+
+ .content-3 h3 {
+    position: relative;
+    top: 50px;
+    left: 20px;
+ }
